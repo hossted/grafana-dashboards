@@ -1,0 +1,4 @@
+id: 12079
+dashboard: https://grafana.com/grafana/dashboards/12079-mongodb/
+exporter: https://github.com/percona/mongodb_exporter
+

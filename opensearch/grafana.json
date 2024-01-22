@@ -1,0 +1,4 @@
+id: 15178
+dashboard: https://grafana.com/grafana/dashboards/15178-opensearch-prometheus/
+exporter: https://github.com/aparo/opensearch-prometheus-exporter
+
