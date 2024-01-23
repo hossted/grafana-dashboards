@@ -1,2 +1,2 @@
 # grafana-dashboards
-Grafana deashboards
+Grafana dashboards
