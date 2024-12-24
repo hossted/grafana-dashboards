@@ -1,2 +1,3 @@
 # grafana-dashboards
-Grafana dashboards
+Grafana dashboards for vm and k8s
+
